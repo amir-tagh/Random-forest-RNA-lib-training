@@ -40,8 +40,23 @@ Model Training: The script splits the data into training and testing sets and tr
 Evaluation: It evaluates the model using R-squared and Mean Squared Error and prints the results.
 
 # Install the required packages:
-## Create a Virtual Environment (Optional but Recommended):
+## Create a Virtual Environment:
 
 python -m venv myenv
 source myenv/bin/activate
+## Install RDKit:
+conda install -c conda-forge rdkit
+## Install Mordred:
+pip install mordred
+## Install Scikit-Learn:
+pip install scikit-learn
+## Install Pandas:
+pip install pandas
+## Install Numpy:
+pip install numpy
+
+
+
+
+
 
