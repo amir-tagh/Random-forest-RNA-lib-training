@@ -38,3 +38,10 @@ Descriptor Calculation: Descriptors are calculated using Mordred, and missing va
 Model Training: The script splits the data into training and testing sets and trains the specified regression model.
 
 Evaluation: It evaluates the model using R-squared and Mean Squared Error and prints the results.
+
+# Install the required packages:
+## Create a Virtual Environment (Optional but Recommended):
+
+python -m venv myenv
+source myenv/bin/activate
+
