@@ -1,4 +1,4 @@
-#Explanations
+# Explanations
 Takes both SDF and SMILES files.\
 Calculates molecular descriptors using Mordred.\
 Trains a Random Forest model on all calculated properties.\
