@@ -20,3 +20,14 @@ Train multiple regression models such as Random Forest, Gradient Boosting, Elast
 
 4. Model Evaluation:\
 Evaluate models based on their performance metrics like R-squared, Mean Squared Error (MSE), etc.
+
+# How the Script Works:
+Input File: The input file should be space-separated, with the first column containing SMILES strings and one column with target values.\
+
+Model Choice: Use the --model argument to choose between 'random_forest', 'gradient_boosting', 'elastic_net', and 'lasso'.\
+
+Descriptor Calculation: Descriptors are calculated using Mordred, and missing values in the descriptor data are handled by dropping columns with NaN.\
+
+Model Training: The script splits the data into training and testing sets and trains the specified regression model.\
+
+Evaluation: It evaluates the model using R-squared and Mean Squared Error and prints the results.\
