@@ -56,8 +56,14 @@ pip install pandas
 pip install numpy
 
 # Software used
-During the development several freely available packages were used. Here we acknowledge and thanks:
-[numpy] 
+During the development several freely available packages were used. Here we acknowledge and thanks:\
+[numpy] (https://numpy.org/)
+[pandas]
+[rdkit]
+[mordred]
+[sklearn]
+[tqdm]
+[seaborn]
 
 # Preliminary results on RNA binders
 ![model_performance](https://github.com/user-attachments/assets/58018f87-8e27-4687-8ef7-0909339c6348)
