@@ -57,8 +57,8 @@ pip install numpy
 
 # Software used
 During the development several freely available packages were used. Here we acknowledge and thanks:\
-[numpy] (https://numpy.org/)
-[pandas]
+numpy (https://numpy.org/)\
+pandas (https://pandas.pydata.org/)\
 [rdkit]
 [mordred]
 [sklearn]
