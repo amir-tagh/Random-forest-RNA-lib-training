@@ -61,6 +61,10 @@ pip install numpy
 
 ![feature_importances](https://github.com/user-attachments/assets/8733e384-825c-4c6f-ad81-3b4f7039fac4)
 
+# Calculation of molecular descriptors
+Now the model can be trained on both RDkit and Mordred extracted descriptors
+Script is parallelized to pick up the available CPU cores and handle the training for big libraries
+
 
 
 
