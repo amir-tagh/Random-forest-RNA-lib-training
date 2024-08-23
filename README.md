@@ -55,6 +55,10 @@ pip install pandas
 ## Install Numpy:
 pip install numpy
 
+# Preliminary results on RNA bin![model_performance](https://github.com/user-attachments/assets/58018f87-8e27-4687-8ef7-0909339c6348)
+ders
+
+
 
 
 
