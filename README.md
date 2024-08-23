@@ -61,11 +61,15 @@ numpy (https://numpy.org/)
 
 pandas (https://pandas.pydata.org/)
 
-[rdkit]
-[mordred]
-[sklearn]
-[tqdm]
-[seaborn]
+rdkit (https://www.rdkit.org/)
+
+mordred (https://github.com/mordred-descriptor/mordred)
+
+sklearn (https://scikit-learn.org/stable/)
+
+tqdm (https://github.com/tqdm/tqdm)
+
+seaborn (https://seaborn.pydata.org/)
 
 # Preliminary results on RNA binders
 ![model_performance](https://github.com/user-attachments/assets/58018f87-8e27-4687-8ef7-0909339c6348)
